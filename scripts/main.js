@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MY DEAR Avery.zhou', 'GZ Love ZYN', 'Love u Forever', 'Are U OK?', 'Each Other', 'I Love You','Forever']
+  let texts = ['MY DEAR Avery.zhou', 'GZ Love ZYN', 'Love', 'Each Other', 'I Love You','Forever']
 
   let canvas,
     ctx,
